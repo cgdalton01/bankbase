@@ -56,7 +56,7 @@ public class CheckingAccount extends BankAccount {
    */
   public static void main(String[] args) {
 
-    CheckingAccount mine = new CheckingAccount("David Green", 200000);
+    CheckingAccount mine = new CheckingAccount("Clayton Dalton", 200000);
     System.out.println("The account has " + mine.getBalance());
     System.out.println(mine);
 
